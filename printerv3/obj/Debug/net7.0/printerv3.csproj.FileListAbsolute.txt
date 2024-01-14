@@ -41,3 +41,4 @@ C:\Users\AMIT\source\repos\printerv3\printerv3\obj\Debug\net7.0\refint\printerv3
 C:\Users\AMIT\source\repos\printerv3\printerv3\obj\Debug\net7.0\printerv3.pdb
 C:\Users\AMIT\source\repos\printerv3\printerv3\obj\Debug\net7.0\printerv3.genruntimeconfig.cache
 C:\Users\AMIT\source\repos\printerv3\printerv3\obj\Debug\net7.0\ref\printerv3.dll
+C:\Users\AMIT\source\repos\printerv3\printerv3\obj\Debug\net7.0\printerv3.sourcelink.json

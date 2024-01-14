@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("printerv3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b27ac1b23f41bf26e6d91af57380d651da198bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("printerv3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("printerv3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

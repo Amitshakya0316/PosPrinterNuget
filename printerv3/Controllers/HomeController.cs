@@ -26,13 +26,13 @@ namespace POSWebApp.Controllers
         {
             return View();
         }
-        public IActionResult Print()
+        public async Task<IActionResult> Print()
         {
             printer = new NetworkPrinter(settings: new NetworkPrinterSettings() { ConnectionString = $"{ip}:{networkPort}" });
             e = new EPSON();
             printer.Write(Tests.SingleLinePrinting(e));
 
-            return Ok();
+            return Ok(Tests.SingleLinePrinting(e));
         }
         public IActionResult Privacy()
         {
