@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\printerv3.props" />
+</Project>
