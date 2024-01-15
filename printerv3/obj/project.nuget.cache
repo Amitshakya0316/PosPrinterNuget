@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "E042PnZrzHT0pzJV6bi/0wuFrY9sVqajybg0LkQxH25Hx7+Bq3Wwns+aXZDmUCPSNc/++UnHagUsnZi2qRe6Xg==",
+  "dgSpecHash": "hvicRcE7NTu7niOSyERlsYLi3m61Rr0ttuQtWgTmhBMxBju45WDxMVjnMdsQ9Cx5C9uItTfYCQH3+WCqPuT+nw==",
   "success": true,
   "projectFilePath": "C:\\Users\\AMIT\\source\\repos\\printerv3\\printerv3\\printerv3.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\AMIT\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\AMIT\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\AMIT\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\AMIT\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\AMIT\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\6.0.0\\runtime.linux-arm.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
     "C:\\Users\\AMIT\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\6.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
     "C:\\Users\\AMIT\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\6.0.0\\runtime.linux-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
